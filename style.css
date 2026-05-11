@@ -1,0 +1,36 @@
+body {
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 15px;
+}
+
+yo {
+    background-color: aqua;
+    /*alinear los elementos del menú en el centro*/
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    list-style: none;
+    gap: 10px;
+}
+
+listaTareas li {
+    /* Estilo para cada tarea en la lista */
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+tareaCompletada {
+    /* Estilo para tareas completadas */
+    text-decoration: line-through;
+    /* Cambia el color a gris para indicar que está completada */
+    color: gray;
+}
+
+html {
+    background-color:antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
