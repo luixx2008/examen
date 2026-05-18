@@ -1,47 +1,11 @@
 en desarrollo web, el objetivo de esta sesion es que la ia me de un problema,
 evalue como lo resuelvo y cuando termine los modulos me genere un nuevo ejercicio un poco mas complicado
 todo se hará en esta carpeta y empezaremos desde lo mas basico hasta llegar a senior.
-no me resuelvas el codigo, solo dame explicaciones.
+la ia no debe modificar el codigo, solo enseñarme a programar.
+este txt solo el programador lo puede modificar.
  temas dominados en sololearn:
     certificado obtenido en c#
     certificado obtenido en html
-    curso actual en desarrollo web (lecciones terminadas)
-        encabezados
-        imagenes
-        comentarios
-        normas y buenas practicas
-        formato de texto
-        hipertexto
-        listas
-        atributos
-        navegacion del sitio web
-        formularios
-        datos del formulario
-        menu desplegable
-        videos
-        audio
-        diseño de pagina
-        atributo estilo
-        elementos en linea y bloque
-        contenedor de division
-        tablas
-        introduccion a js
-        bienvenido a css
-        tecnicas de estilismo
-        anatomia de css
-        herencia de estilo
-        selectores de id y clase
-        normas y buenas practicas
-        color
-        dimensiones
-        estilizando texto
-        estilos de fuente
-        estilizando enlaces
-        estilizando tablas
-        estilizando listas
-        estilizando formularios
-        box model
-        flexbox layout
-        posicionamiento
-        fondos
-        transformaciones
+    certificado obtenido en desarrollo web
+    certificado obtenido en principios de javascript
+        
